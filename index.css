@@ -466,9 +466,8 @@
 }
 
 .sign{
-    width: 100%;
-    padding-left: 65rem;
-    padding-bottom: 4rem;
+    float: right;
+    margin: 5rem 0;
 }
 
 .h5sign{
